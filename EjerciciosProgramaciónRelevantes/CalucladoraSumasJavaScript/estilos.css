@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  
+}
+
+.calculadora {
+  text-align: center;
+}
+
+.move-container {
+  margin-bottom: 2px;
+  
+}
+#move-input{
+	background-color:#8c8c8c;
+	border-radius:0;
+	width:75px;
+}
+
+.grupo3 {
+  margin-top: 2px;
+
+}
+.reseteo{
+	width:80px;
+}
+.mas{
+	background-color:#ADD8E6;
+}
+.igual{
+	background-color:#ADD8E6;
+}
+.reseteo{
+	background-color:#ADD8E6;
+}
